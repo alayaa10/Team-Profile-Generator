@@ -1,0 +1,52 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.team-heading {
+    background: #ff5a5f;
+    color: black;
+    border-radius: 0;
+}
+
+.team-area {
+    padding: 20px;
+}
+
+.employee-col {
+    padding: 8px;
+}
+
+.employee-card {
+    min-width: 25%;
+    min-height: 100%;
+    border-radius: 8;
+    border: solid #ff5a5f 2px;
+}
+
+.card-header {
+    color: rgb(245, 7, 7);
+    text-align: center;
+}
+
+.employee-name {
+    font-weight: bold;
+}
+
+.employee-role {
+    font-weight: normal;
+}
+
+.card-body {
+    padding: 10px;
+    background-color: rgb(247, 171, 171);
+}
+
+.list-group li {
+    padding: 5px;
+    background-color: whitesmoke;
+    color: #171d1c;
+    border-radius: 0 !important;
+    border: none;
+}
